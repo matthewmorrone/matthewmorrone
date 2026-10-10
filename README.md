@@ -18,8 +18,6 @@ Software engineer with a linguistics degree, based in Philadelphia. I build tool
 
 - **[morse](https://github.com/matthewmorrone/morse)**: a Morse code teacher with flashcards
 - **[glyph](https://github.com/matthewmorrone/glyph)**: search across seven icon libraries at once
-- **[elements](https://github.com/matthewmorrone/elements)**: drag elements together and their atomic numbers add up
-- **[spelements](https://github.com/matthewmorrone/spelements)**: spell words with the periodic table
 
 ## Hardware
 
