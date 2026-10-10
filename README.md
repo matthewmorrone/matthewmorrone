@@ -4,7 +4,7 @@ Software engineer with a linguistics degree, based in Philadelphia. I build tool
 
 ## Main project
 
-**[Kioku](https://github.com/matthewmorrone/Kioku)** is an iOS app for reading, looking up, and studying Japanese, with kanji handwriting input and lyric alignment.
+**[Kioku](https://github.com/matthewmorrone/Kioku)** is an iOS app for reading, looking up, and studying Japanese, with kanji handwriting input and lyric alignment. [On the App Store](https://apps.apple.com/us/app/kioku-reader/id6761954675).
 
 ## Language tools
 
