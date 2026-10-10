@@ -14,7 +14,7 @@ Software engineer with a linguistics degree, based in Philadelphia. I build tool
 - **[scriptool](https://github.com/matthewmorrone/scriptool)**: render text into an arbitrary phonetic orthography
 - **[ipa](https://github.com/matthewmorrone/ipa)** and **[cmudict-ipa](https://github.com/matthewmorrone/cmudict-ipa)**: IPA tooling, and the CMU dictionary converted from Arpabet to IPA
 - **[alignment](https://github.com/matthewmorrone/alignment)**: turn audio and lyrics into timed `.srt` and `.TextGrid` files with stable-ts
-- **[moon](https://github.com/matthewmorrone/moon)**: synced, furigana-annotated lyric pages for Sailor Moon songs
+- **[moon](https://github.com/matthewmorrone/moon)**: synced, furigana-annotated lyric pages for anime songs
 
 ## Research
 
