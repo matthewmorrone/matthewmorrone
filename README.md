@@ -27,10 +27,6 @@ Software engineer with a linguistics degree, based in Philadelphia. I build tool
 - **[morse](https://github.com/matthewmorrone/morse)**: a Morse code teacher with flashcards
 - **[glyph](https://github.com/matthewmorrone/glyph)**: search across seven icon libraries at once
 
-## Hardware
-
-ESP32 firmware (LoRa, ESP-NOW, AMOLED watches) lives in a private monorepo.
-
 ## Elsewhere
 
 [matthewmorrone.com](https://www.matthewmorrone.com)
