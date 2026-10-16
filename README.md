@@ -1,6 +1,6 @@
 # Matthew Morrone
 
-Software engineer with a linguistics degree, based in Philadelphia. I build tools for reading, sound, and writing systems, plus the occasional piece of hardware.
+Software engineer with a linguistics degree, based in Philadelphia. My professional work includes Java and TypeScript services, SQL databases, and legacy application modernization across insurance and healthcare. I also build tools for reading, sound, and writing systems, plus the occasional piece of hardware.
 
 ## Main project
 
